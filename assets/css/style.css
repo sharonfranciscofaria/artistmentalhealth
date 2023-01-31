@@ -46,12 +46,7 @@ h4 {
         text-transform: uppercase;
       }
 
-    /* Reasons */
-#reasons {
-    background-image: linear-gradient(to bottom, #d7bebe, #dbc4c6, #dfcace, #e2d0d5, #e6d6dc);
-  }
-
-  /* Testimonials */
-#testimonials {
+    /* Body second background colour */
+#reasons , #testimonials , #support {
     background-image: linear-gradient(to bottom, #d7bebe, #dbc4c6, #dfcace, #e2d0d5, #e6d6dc);
   }
