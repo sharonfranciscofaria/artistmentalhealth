@@ -47,6 +47,11 @@ h4 {
       }
 
     /* Body division background colour */
-#reasons , #testimonials , #support, #gallery{
+#reasons , #testimonials , #support, #gallery, #contact{
     background-image: linear-gradient(to bottom, #d7bebe, #dbc4c6, #dfcace, #e2d0d5, #e6d6dc);
+  }
+
+/* Contact*/
+#contact2 {
+    background-color:  #f6e7ee;
   }
