@@ -27,3 +27,17 @@ p {
     font-size: 18px;
     font-weight: 200;
 }
+
+h3 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #484140;
+    text-align: center;
+    text-transform: uppercase;
+    text-align: center; }
+
+    /* Reasons */
+#reasons {
+    background-image: linear-gradient(to bottom, #d7bebe, #dbc4c6, #dfcace, #e2d0d5, #e6d6dc);
+  }
