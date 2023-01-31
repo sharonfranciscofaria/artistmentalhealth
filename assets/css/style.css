@@ -37,6 +37,16 @@ h3 {
     text-transform: uppercase;
     text-align: center; }
 
+h4 {
+        font-family: 'Josefin Sans', sans-serif;
+        font-weight: 400;
+        font-size: 30px;
+        color: #484140;
+        text-align: center;
+        text-transform: uppercase;
+      }
+       }
+
     /* Reasons */
 #reasons {
     background-image: linear-gradient(to bottom, #d7bebe, #dbc4c6, #dfcace, #e2d0d5, #e6d6dc);
