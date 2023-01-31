@@ -46,7 +46,7 @@ h4 {
         text-transform: uppercase;
       }
 
-    /* Body second background colour */
+    /* Body division background colour */
 #reasons , #testimonials , #support, #gallery{
     background-image: linear-gradient(to bottom, #d7bebe, #dbc4c6, #dfcace, #e2d0d5, #e6d6dc);
   }
