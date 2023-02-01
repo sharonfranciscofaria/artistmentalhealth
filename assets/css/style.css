@@ -18,33 +18,36 @@ h1 {
 h2 {
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
-    font-size: 25px;
-    color: #000000;
-}
-
-p {
-    font-family: 'Josefin Sans', sans-serif;
-    font-size: 18px;
-    font-weight: 200;
+    font-size: 30px;
+    color: #484140;
+    text-align: center;
+    text-transform: uppercase;
 }
 
 h3 {
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 25px;
     color: #484140;
-    text-align: center;
-    text-transform: uppercase;
     text-align: center;
 }
 
 h4 {
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
-    font-size: 30px;
+    font-size: 20px;
     color: #484140;
     text-align: center;
     text-transform: uppercase;
+
+}
+
+p {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 200;
+    font-size: 18px;
+    color: #484140;
+    text-align: center;
 }
 
 /* Body division background colour */
@@ -58,23 +61,32 @@ h4 {
 }
 
 /* Nav Bar */
+
 .navbar-brand {
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
-            }
+}
 
 .nav-link {
     font-family: 'Josefin Sans', sans-serif;
     color: #484140;
     font-weight: 400;
-        }
+}
 
+/* Stories Buttons */
+
+.btn.btn-dark.disabled {
+background-color: #484140;
+}
 
 /* Contact*/
 #contact2 {
     background-color: #f6e7ee;
 }
 
-.form-label, .form-check-input , .btn.btn-dark , .form-check-label {
+.form-label,
+.form-check-input,
+.btn.btn-dark,
+.form-check-label {
     font-family: 'Josefin Sans', sans-serif;
 }
