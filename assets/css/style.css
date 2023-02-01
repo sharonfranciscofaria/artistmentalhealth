@@ -73,6 +73,11 @@ p {
     font-weight: 400;
 }
 
+/* Card body */
+.card-body {
+    background-color: #fff5f5;
+}
+
 /* Stories Buttons */
 
 .btn.btn-dark.disabled {
@@ -90,3 +95,5 @@ background-color: #484140;
 .form-check-label {
     font-family: 'Josefin Sans', sans-serif;
 }
+
+
