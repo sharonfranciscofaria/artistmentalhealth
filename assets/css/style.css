@@ -74,3 +74,7 @@ h4 {
 #contact2 {
     background-color: #f6e7ee;
 }
+
+.form-label, .form-check-input , .btn.btn-dark , .form-check-label {
+    font-family: 'Josefin Sans', sans-serif;
+}
