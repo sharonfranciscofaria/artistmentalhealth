@@ -35,27 +35,42 @@ h3 {
     color: #484140;
     text-align: center;
     text-transform: uppercase;
-    text-align: center; }
+    text-align: center;
+}
 
 h4 {
-        font-family: 'Josefin Sans', sans-serif;
-        font-weight: 400;
-        font-size: 30px;
-        color: #484140;
-        text-align: center;
-        text-transform: uppercase;
-      }
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    color: #484140;
+    text-align: center;
+    text-transform: uppercase;
+}
 
-    /* Body division background colour */
-#reasons , #testimonials , #support, #gallery, #contact{
+/* Body division background colour */
+#reasons,
+#testimonials,
+#support,
+#gallery,
+#contact {
     background-image: linear-gradient(to bottom, #d7bebe, #dbc4c6, #dfcace, #e2d0d5, #e6d6dc);
-  }
+
+}
+
+/* Nav Bar */
+.navbar-brand {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+            }
+
+.nav-link {
+    font-family: 'Josefin Sans', sans-serif;
+    color: #484140;
+    font-weight: 400;
+        }
+
 
 /* Contact*/
 #contact2 {
-    background-color:  #f6e7ee;
-  }
-
-  .navbar-brand {
-    font-family: 'Josefin Sans', sans-serif;}
-    
+    background-color: #f6e7ee;
+}
