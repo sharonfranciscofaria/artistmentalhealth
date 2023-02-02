@@ -8,6 +8,11 @@
 	<meta name="keywords" content="mental health matters creative artist art support london services near me therapy counselling awareness artist uk exhibition life">
     <meta name="description" content=">A safe haven for artists to connect and share challenges one could face. 
     The Creative Mind mission is to make sure no one has to face a mental health problem alone.">
+
+	<!-- Favicons -->
+<link rel="apple-touch-icon" href="/docs/5.3/assets/img/favicons/apple-touch-icon.png" sizes="180x180">
+
+
 	<title>The Creative Mind</title>
 
 	<!-- Bootstrap -->
@@ -55,7 +60,7 @@
 	<!-- Page heading -->
 	
 	<div>
-        <div class="container col-xxl-8 px-4 py-5">
+        <div class="container col-xxl-8 px-4 py-5" >
 			<div class="row flex-lg-row-reverse align-items-center g-5">
 			  <div class="col-10 col-sm-8 col-lg-6">
 				<img src="assets/images/together.png" class="d-block mx-lg-auto img-fluid" alt="together" width="500" height="400" loading="lazy">
@@ -73,6 +78,7 @@
 			  </div>
 			</div>
 		  </div>
+	</div>
 
 
 		<!-- Contact -->
@@ -88,7 +94,7 @@
 										<div class="col-12">
 											<label for="name" class="form-label">Name/Nickname <span
 													class="text-danger">*</span></label>
-											<input type="text" class="form-control" id="name" value="" required>
+											<input type="text" class="form-control" id="name" required>
 										</div>
 										<div class="col-12 col-md-6">
 											<label for="email" class="form-label">Email <span
@@ -96,7 +102,7 @@
 											<div class="input-group">
 												<span class="input-group-text">
 													<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-														fill="currentColor" class="bi bi-envelope" viewBox="0 0 16 16">
+														fill="currentColor" class="bi bi-envelope" aria-label="email" viewBox="0 0 16 16">
 														<path
 															d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4Zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2Zm13 2.383-4.708 2.825L15 11.105V5.383Zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741ZM1 11.105l4.708-2.897L1 5.383v5.722Z" />
 													</svg>
@@ -124,28 +130,28 @@
 										</div>
 										<div class="form-check">
 											<input class="form-check-input" type="checkbox" value=""
-												id="flexCheckDefault">
+												id="flexCheckDefault" aria-label="checkbox">
 											<label class="form-check-label" for="flexCheckDefault">
 												Mental Health Support
 											</label>
 										</div>
 										<div class="form-check">
 											<input class="form-check-input" type="checkbox" value=""
-												id="flexCheckChecked1" checked>
+												id="flexCheckChecked1" aria-label="checkbox" checked>
 											<label class="form-check-label" for="flexCheckChecked1">
 												Upcoming Events or Hosting
 											</label>
 										</div>
 										<div class="form-check">
 											<input class="form-check-input" type="checkbox" value=""
-												id="flexCheckChecked2" checked>
+												id="flexCheckChecked2" aria-label="checkbox" checked>
 											<label class="form-check-label" for="flexCheckChecked2">
 												Becoming a Member or Volunteer
 											</label>
 										</div>
 										<div class="form-check">
 											<input class="form-check-input" type="checkbox" value=""
-												id="flexCheckChecked3" checked>
+												id="flexCheckChecked3" aria-label="checkbox" checked>
 											<label class="form-check-label" for="flexCheckChecked3">
 												Other
 											</label>
@@ -165,8 +171,8 @@
 			</div>
 
 			<!--Google map-->
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d158857.72810779134!2d-0.24168048758365035!3d51.52877184055498!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8a00baf21de75%3A0x52963a5addd52a99!2sLondon!5e0!3m2!1sen!2suk!4v1675343376973!5m2!1sen!2suk" 
-			width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+			<iframe id="maps" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d158857.72810779134!2d-0.24168048758365035!3d51.52877184055498!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8a00baf21de75%3A0x52963a5addd52a99!2sLondon!5e0!3m2!1sen!2suk!4v1675362911327!5m2!1sen!2suk" 
+			 allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   <!--Google Maps-->
 	
 
@@ -202,7 +208,7 @@
 				<!-- Section: Social media -->
 				<div class="mb-4">
 					<!-- Facebook -->
-					<a class="btn btn-link btn-floating btn-lg text-dark m-1 m-sm-0" href="https://en-gb.facebook.com/"
+					<a class="btn btn-link btn-floating btn-lg text-dark m-1 m-sm-0" aria-label="facebook" href="https://en-gb.facebook.com/"
 						role="button" data-mdb-ripple-color="dark"><svg xmlns="http://www.w3.org/2000/svg" width="16"
 							height="16" fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16">
 							<path
@@ -211,7 +217,7 @@
 					</a>
 
 					<!-- Twitter -->
-					<a class="btn btn-link btn-floating btn-lg text-dark m-1 m-sm-0" href="https://twitter.com/?lang=en"
+					<a class="btn btn-link btn-floating btn-lg text-dark m-1 m-sm-0" aria-label="twitter" href="https://twitter.com/?lang=en"
 						role="button" data-mdb-ripple-color="dark">
 						<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
 							class="bi bi-twitter" viewBox="0 0 16 16">
@@ -221,7 +227,7 @@
 					</a>
 
 					<!-- Youtube -->
-					<a class="btn btn-link btn-floating btn-lg text-dark m-1 m-sm-0" href="https://www.youtube.com/"
+					<a class="btn btn-link btn-floating btn-lg text-dark m-1 m-sm-0" aria-label="youtube" href="https://www.youtube.com/"
 						role="button" data-mdb-ripple-color="dark">
 						<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
 							class="bi bi-youtube" viewBox="0 0 16 16">
@@ -231,7 +237,7 @@
 					</a>
 
 					<!-- Instagram -->
-					<a class="btn btn-link btn-floating btn-lg text-dark m-1 m-sm-0" href="https://www.instagram.com/"
+					<a class="btn btn-link btn-floating btn-lg text-dark m-1 m-sm-0" aria-label="instagram" href="https://www.instagram.com/"
 						role="button" data-mdb-ripple-color="dark">
 						<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
 							class="bi bi-instagram" viewBox="0 0 16 16">
@@ -241,7 +247,7 @@
 					</a>
 
 					<!-- Linkedin -->
-					<a class="btn btn-link btn-floating btn-lg text-dark m-1 m-sm-0" href="https://uk.linkedin.com/"
+					<a class="btn btn-link btn-floating btn-lg text-dark m-1 m-sm-0" aria-label="linkedin" href="https://uk.linkedin.com/"
 						role="button" data-mdb-ripple-color="dark">
 						<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
 							class="bi bi-linkedin" viewBox="0 0 16 16">
@@ -258,9 +264,8 @@
 			<div>
 				<p>
 					© 2023 Copyright
-					<a class="text-dark text-decoration-none" href="https://www.sharonfranciscofaria.com/"
-						target="_blank">Sharon Francisco
-						Faria</a>
+					<a class="text-dark text-decoration-none" aria-label="copyright" href="https://www.sharonfranciscofaria.com/"
+						target="_blank">Sharon Francisco Faria</a>
 				</p>
 			</div>
 			<div class="container">
@@ -277,6 +282,7 @@
 			</div>
 			<!-- Copyright -->
 		</footer>
+	
 </body>
 
 </html>
