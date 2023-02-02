@@ -56,12 +56,12 @@ p {
 #support,
 #gallery,
 #contact
-#redirect {
+ {
     background-image: linear-gradient(to bottom, #d7bebe, #dbc4c6, #dfcace, #e2d0d5, #e6d6dc);
-
 }
 
 /* Nav Bar */
+
 
 .navbar-brand {
     font-family: 'Josefin Sans', sans-serif;
