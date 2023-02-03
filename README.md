@@ -1,6 +1,11 @@
 <h1 align="center">The Creative Mind - An Artist Mental Health</h1>
 
-## Problem 
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/mockup.jpg"></h2>
+
+## Live Link
+[The Creative Mind](https://sharonfranciscofaria.github.io/artistmentalhealth/)
+
+## Problem Statement
 As a person who had background in the creative industry as well as is surrounded by family members and friends who are artist / are in the crative industry, their mental health is often not taken seriously for several reasons:
 
  1- Stigma: Mental health issues are still stigmatized in many parts of the world, and artists may face additional stigma for admitting to mental health problems because it can be seen as a sign of weakness or instability.
@@ -13,15 +18,10 @@ As a person who had background in the creative industry as well as is surrounded
 
  5- It's important to recognize the challenges faced by artists and to provide support and resources to help them maintain good mental health.
 
+ As a result, I was motivated to create a website targetting artist who may need or need mental health support or a community.
+
 ## Solution and Purpose 
 The purpose of this website is to provide a safe and supportive space for artists to connect, share their work, and receive emotional and psychological support related to their mental health. This type of community recognizes the unique challenges that artists can face and aims to promote creative expression while also addressing mental health needs. By providing a platform for artists to connect and receive support, the website aims to connect , improve their overall well-being and foster a positive and uplifting community for all members.
-
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/mockup.jpg"></h2>
-
-## Live Link
-[The Creative Mind](https://sharonfranciscofaria.github.io/artistmentalhealth/)
-
-
 
 # UI/UX
 
@@ -122,9 +122,10 @@ Stories is an important tool for struggling artists to connect with users. By sh
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/getinvovled-mid.PNG"></h2>
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/getinvovled-bottom.PNG"></h2>
 
-# Mobile Version 
+## Error 404 Page 
 
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/mobile-version.png"></h2>
+Incase there is an error 404, the website will redirect to to a customised version of it, matching the brand theme. 
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/404page.PNG"></h2>
 
 ***
 
@@ -148,6 +149,19 @@ Stories is an important tool for struggling artists to connect with users. By sh
 
  # Testing 
 
+## Responsiveness 
+Tested Chrome DevTools for responsiveness across differnet browsers: Chrome, Edge and Opera as well as different 
+devices: Desktop, Laptop, Tablet/Ipad and Mobiles 
+
+### Mobile
+
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/mobile-version.png"></h2>
+
+### Ipad / Tablet 
+
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/ipad-test.png"></h2>
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/ipad-test2.png"></h2>
+
  ## Validator
 
 ### The W3C Markup Validator
@@ -163,14 +177,11 @@ No errors shown. Passed validator.
 
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/stylevalidatorw3css.jpg"></h2>
 
-## Google Lighthouse
+## Google Lighthouse Accessibility Score
 ### Desktop
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/lighthouse-test.png"></h2>
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/lighthouse-test2.png"></h2>
 ### Mobile 
-
-## Different browsers
-### Chrome
-### Edge 
-### Opera 
 
 
 ***
@@ -213,8 +224,8 @@ No errors shown. Passed validator.
     - Stores, manages, and track changes to the project code
 - Chrome DevTools
     - Chrome DevTools helped to debug, inspect, test the website's responsive design and check performance analysis tools
-
-https://ui.dev/amiresponsive
+- [Am I responsive](https://ui.dev/amiresponsive)
+    - Mock up and check responsiveness across different devices 
 
 ***
 
@@ -256,6 +267,13 @@ The live link can be found here - [The Creative Mind](https://sharonfranciscofar
 ***
 
 # Credits
+- Code insitute Course Materials
+- [Stackoverflow] (https://stackoverflow.com/questions/29336611/css-media-queries-order-matters)
+- [W3School] (https://www.w3schools.com/css/css3_images.asp)
+- [FreeCodeCamp] (https://www.freecodecamp.org/)
+- [GoogleGarage]
+
+
 
 *** 
 
