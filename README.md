@@ -58,18 +58,30 @@ Addtional matched tones of grpahics designed on Canva
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/graphics-palette.png"></h2>
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/graphics.jpg"></h2>
 
-### Wireframes VS Final look of Website 
+### Wireframes VS Final Look of Website 
 
-Homepage design 
+Homepage wireframe
 
 The design focuses on the user's needs and goals, and making it easy for them to find what they're looking for. The homepage clearly describes the purpose and what the organsation offers. Lastly, the Testimonials section provide social proof that the service being offered is of high quality and has satisfied previous customers. This can increase trust and credibility for the website and its offerings.
 
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/homepage-design.png"></h2>
 
-Final Look of Homepage Website
+Final Look of Homepage 
 
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/homepage-top.jpg"></h2>
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/homepage-bottom.jpg"></h2>
+
+Support page wireframe 
+
+Having a self-help tips page and other support pages on a mental health website can help reduce stigma surrounding mental health by normalising the conversation and making it easier for individuals to access information and resources. It can also empower individuals to take control of their mental health and feel more proactive in their recovery.
+
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/support-design.jpg"></h2>
+
+Final Look of Support page 
+
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/support-top.jpg"></h2>
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/support-bottom.jpg"></h2>
+
 
 ***
 
