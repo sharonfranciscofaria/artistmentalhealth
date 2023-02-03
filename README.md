@@ -30,7 +30,7 @@ Throughout the whole website except the main heading of the homepage, the websit
 
 To offer the website's visitors a sense of artistic feel, the main homepage header font [Pinyon Script, Designed by Nicole Fally](https://fonts.google.com/specimen/Pinyon+Script) was chosen. It was carefully decided not to be used more frequently as it can be difficult for users to read. 
 
-![Branding](docs/Branding/font-logo.jpg)
+![Branding](../artistmentalhealth/assets/docs/font-logo.jpg)
 
 Different logo concepts were first created, but in the end, it felt that a simple text and straightforward logo best reflected the current professionalism and elegance of the brand. The font "Josefin Sans" was used to design the website, making it simple to adapt to various mediums and sizes. 
 
