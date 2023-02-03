@@ -1,16 +1,29 @@
-# The Creative Mind 
+<h1 align="center">The Creative Mind - An Artist Mental Health</h1>
 
-## Purpose 
+## Problem 
+Artists' mental health is often not taken seriously for various reasons:
+
+ 1- Stigma: Mental health issues are still stigmatized in many parts of the world, and artists may face additional stigma for admitting to mental health problems because it can be seen as a sign of weakness or instability.
+
+ 2- Lack of Awareness: Some people may not be aware of the unique challenges and stressors faced by artists, which can contribute to mental health problems.
+
+ 3- Limited Resources: Artists may face financial difficulties, and mental health resources may not be readily available or affordable for them.
+
+ 4- Misconceptions: There may be misconceptions about the relationship between mental health and artistic ability, leading some to believe that mental health problems are a necessary part of the creative process.
+
+ 5- It's important to recognize the challenges faced by artists and to provide support and resources to help them maintain good mental health.
+
+## Solution and Purpose 
 The purpose of this website is to provide a safe and supportive space for artists to connect, share their work, and receive emotional and psychological support related to their mental health. This type of community recognizes the unique challenges that artists can face and aims to promote creative expression while also addressing mental health needs. By providing a platform for artists to connect and receive support, the website aims to connect , improve their overall well-being and foster a positive and uplifting community for all members.
 
 ## Target
-This website targets all artist of all levels and all age groups living in London, however others across UK may access it online too. 
+This website targets all artist of all levels and all age groups living in London, others across UK may access it online too. By making mental health resources available to people from all backgrounds and ages, we create an inclusive and supportive community where everyone feels welcome and valued.
 
 ## UI/UX
 
-As designer the main focus is on creating user-centered designs that are both aesthetically pleasing and functional. These task were taken for the website:
+As designer the main focus is on creating user-centered designs that are both aesthetically pleasing and functional.
 
-##  User research to understand their needs and goals 
+##  User research
 
 As a user, I would like to find the following on an artist community with mental health services website:
 
@@ -33,6 +46,14 @@ To offer the website's visitors a sense of artistic feel, the main homepage head
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/font-logo.jpg"></h2>
 
 Different logo concepts were first created, but in the end, it felt that a simple text and straightforward logo best reflected the current professionalism and elegance of the brand. The font "Josefin Sans" was used to design the website, making it simple to adapt to various mediums and sizes. 
+
+### Colour Palette
+
+These  colours were chosen to give a soft and neutral colors that can create a calming and soothing atmosphere on a website. This can help reduce stress and anxiety for users, making the website more enjoyable to use. These colours also help the ability of reading text clearly on a website, making it easier for users to consume information and navigate the site.
+
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/main-palette.png"></h2>
+
+
 
 ***
 
