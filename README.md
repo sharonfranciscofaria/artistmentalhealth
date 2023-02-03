@@ -1,7 +1,7 @@
 <h1 align="center">The Creative Mind - An Artist Mental Health</h1>
 
 ## Problem 
-Artists' mental health is often not taken seriously for various reasons:
+As a person who had background in the creative industry as well as is surrounded by family members and friends who are artist / are in the crative industry, their mental health is often not taken seriously for several reasons:
 
  1- Stigma: Mental health issues are still stigmatized in many parts of the world, and artists may face additional stigma for admitting to mental health problems because it can be seen as a sign of weakness or instability.
 
@@ -102,10 +102,25 @@ This section allows visitors to get a visual representation of what the website 
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/events-bottom.jpg"></h2>
 
 ## Stories page wireframe 
+Stories is an important tool for struggling artists to connect with users. By sharing their stories, artists can give their users a behind-the-scenes look at their life, their struggles, and their motivations for creating their art. This can help build a deeper emotional connection, which can lead to increased engagement and support. 
+
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/stories-design.jpg"></h2>
+
 ## Final Look of Stories page 
 
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/stories-top.jpg"></h2>
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/stories-bottom.jpg"></h2>
+
 ## Get Invovled page wireframe 
+ A simple and convenient way for users to reach out the team and get invovled, especially for those who may struggle with communicating verbally.The contact form encourages users to actively engage with the mental health community and seek support when they need it, which can contribute to a more supportive and inclusive environment.
+
+ <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/getinvovled-design.png"></h2>
+
 ## Get Invovled page Final Look
+
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/getinvovled-top.PNG"></h2>
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/getinvovled-mid.PNG"></h2>
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/getinvovled-bottom.PNG"></h2>
 
 # Mobile Version 
 
@@ -121,8 +136,12 @@ This section allows visitors to get a visual representation of what the website 
 ### Navbar Collapse 
  <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/navbar-collapse.jpg"></h2>
 
-### Redirect buttons
+### Redirect buttons - User Journey
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/redirect.png"></h2>
+
+### Footer 
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/footer.png"></h2>
+
 
  ***
 
@@ -130,8 +149,8 @@ This section allows visitors to get a visual representation of what the website 
 
  ## Validator
 
-  ### The W3C Markup Validator
-  ### W3C CSS Validator
+### The W3C Markup Validator
+### W3C CSS Validator
 
 ## Google Lighthouse
 ### Desktop
