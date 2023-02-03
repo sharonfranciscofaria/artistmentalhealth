@@ -151,7 +151,17 @@ Stories is an important tool for struggling artists to connect with users. By sh
  ## Validator
 
 ### The W3C Markup Validator
+ No errors on all pages. Passed validator.
+ - [Homepage] (https://validator.w3.org/nu/?doc=https%3A%2F%2Fsharonfranciscofaria.github.io%2Fartistmentalhealth%2Fgetinvovled.html)
+ - [Support] (https://validator.w3.org/nu/?doc=https%3A%2F%2Fsharonfranciscofaria.github.io%2Fartistmentalhealth%2Fsupport.html)
+ - [Events] (https://validator.w3.org/nu/?doc=https%3A%2F%2Fsharonfranciscofaria.github.io%2Fartistmentalhealth%2Fevents.html)
+ - [Stories] (https://validator.w3.org/nu/?doc=https%3A%2F%2Fsharonfranciscofaria.github.io%2Fartistmentalhealth%2Fstories.html)
+ - [GetInvovled] (https://validator.w3.org/nu/?doc=https%3A%2F%2Fsharonfranciscofaria.github.io%2Fartistmentalhealth%2Fgetinvovled.html)
+
 ### W3C CSS Validator
+No errors shown. Passed validator.
+
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/stylevalidatorw3css.jpg"></h2>
 
 ## Google Lighthouse
 ### Desktop
