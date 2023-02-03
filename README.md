@@ -178,10 +178,21 @@ No errors shown. Passed validator.
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/stylevalidatorw3css.jpg"></h2>
 
 ## Google Lighthouse Accessibility Score
-### Desktop
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/lighthouse-test.png"></h2>
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/lighthouse-test2.png"></h2>
-### Mobile 
+
+### Home
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/home-score.PNG"></h2>
+
+### Support 
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/support-score.PNG"></h2>
+
+### Events
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/events-score.PNG"></h2>
+
+### Stories 
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/stories-score.PNG"></h2>
+
+### Get Invovled 
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/getinvovled-score.PNG"></h2>
 
 
 ***
@@ -191,34 +202,34 @@ No errors shown. Passed validator.
     - HTML is used to structure and use Bootstrap components by adding specific classes.
 - CSS
     - CSS is used to style and personalise Bootstrap components used for the website
-- Bootstrap v5.3
+- [Bootstrap v5.3](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
     - A set of pre-designed HTML, CSS, and JavaScript components was used to create responsive, mobile-first websites.
-- Bootstrap Icons v1.10.0
-    - Bootstrap Icons v1.10.0 to embed on the website.
+- [Bootstrap Icons v1.10.0](https://icons.getbootstrap.com/)
+    - Bootstrap Icons v1.10.0 to embed Icons on the website.
 - Google Fonts
     - Google Fonts us used to embed for the website
         - [Josefin Sans, Designed by Santiago Orozco](https://fonts.google.com/specimen/Josefin+Sans)
         - [Pinyon Script, Designed by Nicole Fally](https://fonts.google.com/specimen/Pinyon+Script)
-- Figma
+- [Figma]()
     - The wireframe was pre-planned and designed via Figma. 
-- Canva 
+- [Canva](https://www.canva.com/)
     - Canva was used for: 
       - Granting copyright free images/graphics/videos
       - Designing and testing visuals 
       - Resizing and downloading in PNG to support transparent background
       - Match brand tones to grpahics and design 
       - Create videos for the brand 
-- ColorSpace 
+- [ColorSpace](https://mycolor.space/), [Coolors](https://coolors.co/)
     - Generated the brand colour palatte including a colour graident 
-- Vimeo 
-    - Uploaded onto the platofrm to share and embed video via Vimeo 
+- [Vimeo](https://vimeo.com/user193226307)
+    - Uploaded onto the platform to share and embed video via Vimeo
 - Bootstrap Brain, MDB Bootstrap, Bootstrap Form Builder
     - These websites allows copyright free frontend libraries, some of the bootstrap components were used for the website
-- QuillBot 
+- [QuillBot](https://quillbot.com/)
     - QuillBot was used scan writings and alert any errors in grammar, spelling, punctuation as well as rephrase any research used for the website
-- ChatGPT 
-    - This was used inform a summary of a topic as well as generate stories for the stories section in the website
-- User Persona. Dev
+- [ChatGPT](https://openai.com/blog/chatgpt/)
+    - This was used inform a summary of a topic as well as generate stories for the stories section in the website, I then edited it and to match the theme and number of words for the website. 
+- [User Persona](https://userpersona.dev/)
     - The website helped to generate fictional characters to represent the website
 - GitHub 
     - Stores, manages, and track changes to the project code
@@ -271,9 +282,8 @@ The live link can be found here - [The Creative Mind](https://sharonfranciscofar
 - [Stackoverflow] (https://stackoverflow.com/questions/29336611/css-media-queries-order-matters)
 - [W3School] (https://www.w3schools.com/css/css3_images.asp)
 - [FreeCodeCamp] (https://www.freecodecamp.org/)
-- [GoogleGarage]
-
-
+- [Mind] (https://www.mind.org.uk/)
+- [ZenCare] (https://zencare.co/mental-health/artist-mental-health)
 
 *** 
 
