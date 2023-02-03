@@ -1,6 +1,6 @@
 <h1 align="center">The Creative Mind - An Artist Mental Health</h1>
 
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/mockup.jpg"></h2>
+<h2 align="center"><img src="/artistmentalhealth/assets/docs/mockup.jpg"></h2>
 
 ## Live Link
 [The Creative Mind](https://sharonfranciscofaria.github.io/artistmentalhealth/)
@@ -50,7 +50,7 @@ Throughout the whole website except the main heading of the homepage, the websit
 
 To offer the website's visitors a sense of artistic feel, the main homepage header font [Pinyon Script, Designed by Nicole Fally](https://fonts.google.com/specimen/Pinyon+Script) was chosen. It was carefully decided not to be used more frequently as it can be difficult for users to read. 
 
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/font-logo.jpg"></h2>
+<h2 align="center"><img src="/artistmentalhealth/assets/docs/font-logo.jpg"></h2>
 
 Different logo concepts were first created, but in the end, it felt that a simple text and straightforward logo best reflected the current professionalism and elegance of the brand. The font "Josefin Sans" was used to design the website, making it simple to adapt to various mediums and sizes. 
 
@@ -58,16 +58,16 @@ Different logo concepts were first created, but in the end, it felt that a simpl
 
 These  colours were chosen to give a soft and neutral colors that can create a calming and soothing atmosphere on a website. This can help reduce stress and anxiety for users, making the website more enjoyable to use. These colours also help the ability of reading text clearly on a website, making it easier for users to consume information and navigate the site. 
 
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/main-palette.png"></h2>
+<h2 align="center"><img src="/artistmentalhealth/assets/docs/main-palette.png"></h2>
 
 Addtional matched tones of grpahics designed on Canva 
 
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/graphics-palette.png"></h2>
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/graphics.jpg"></h2>
+<h2 align="center"><img src="/artistmentalhealth/assets/docs/graphics-palette.png"></h2>
+<h2 align="center"><img src="/artistmentalhealth/assets/docs/graphics.jpg"></h2>
 
 Removing background and matching the theme of the website
 
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/remove-background.png"></h2>
+<h2 align="center"><img src="/artistmentalhealth/assets/docs/remove-background.png"></h2>
 
 # Wireframes VS Final Look of Website 
 
@@ -75,61 +75,61 @@ Removing background and matching the theme of the website
 
 The design focuses on the user's needs and goals, and making it easy for them to find what they're looking for. The homepage clearly describes the purpose and what the organsation offers. Lastly, the Testimonials section provide social proof that the service being offered is of high quality and has satisfied previous customers. This can increase trust and credibility for the website and its offerings.
 
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/homepage-design.png"></h2>
+<h2 align="center"><img src="/artistmentalhealth/assets/docs/homepage-design.png"></h2>
 
 ## Homepage Final Look
 
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/homepage-top.jpg"></h2>
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/homepage-bottom.jpg"></h2>
+<h2 align="center"><img src="/artistmentalhealth/assets/docs/homepage-top.jpg"></h2>
+<h2 align="center"><img src="/artistmentalhealth/assets/docs/homepage-bottom.jpg"></h2>
 
 ## Support page wireframe 
 
 Having a self-help tips page and other support pages on a mental health website can help reduce stigma surrounding mental health by normalising the conversation and making it easier for individuals to access information and resources. It can also empower individuals to take control of their mental health and feel more proactive in their recovery.
 
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/support-design.jpg"></h2>
+<h2 align="center"><img src="/artistmentalhealth/assets/docs/support-design.jpg"></h2>
 
 ## Support page Final Look
 
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/support-top.jpg"></h2>
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/support-bottom.jpg"></h2>
+<h2 align="center"><img src="artistmentalhealth/assets/docs/support-top.jpg"></h2>
+<h2 align="center"><img src="artistmentalhealth/assets/docs/support-bottom.jpg"></h2>
 
 ## Events and Gallery page wireframe 
 
 This section allows visitors to get a visual representation of what the website is offering and helps to build trust and credibility. Mainly the events section in a website helps to create a more dynamic and engaging experience for visitors and members alike!
 
 
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/events-design.jpg"></h2>
+<h2 align="center"><img src="artistmentalhealth/assets/docs/events-design.jpg"></h2>
 
 ## Events and Gallery page Final Look 
 
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/events-top.jpg"></h2>
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/events-bottom.jpg"></h2>
+<h2 align="center"><img src="artistmentalhealth/assets/docs/events-top.jpg"></h2>
+<h2 align="center"><img src="artistmentalhealth/assets/docs/events-bottom.jpg"></h2>
 
 ## Stories page wireframe 
 Stories is an important tool for struggling artists to connect with users. By sharing their stories, artists can give their users a behind-the-scenes look at their life, their struggles, and their motivations for creating their art. This can help build a deeper emotional connection, which can lead to increased engagement and support. 
 
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/stories-design.jpg"></h2>
+<h2 align="center"><img src="artistmentalhealth/assets/docs/stories-design.jpg"></h2>
 
 ## Final Look of Stories page 
 
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/stories-top.jpg"></h2>
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/stories-bottom.jpg"></h2>
+<h2 align="center"><img src="/artistmentalhealth/assets/docs/stories-top.jpg"></h2>
+<h2 align="center"><img src="/artistmentalhealth/assets/docs/stories-bottom.jpg"></h2>
 
 ## Get Invovled page wireframe 
  A simple and convenient way for users to reach out the team and get invovled, especially for those who may struggle with communicating verbally.The contact form encourages users to actively engage with the mental health community and seek support when they need it, which can contribute to a more supportive and inclusive environment.
 
- <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/getinvovled-design.png"></h2>
+ <h2 align="center"><img src="/artistmentalhealth/assets/docs/getinvovled-design.png"></h2>
 
 ## Get Invovled page Final Look
 
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/getinvovled-top.PNG"></h2>
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/getinvovled-mid.PNG"></h2>
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/getinvovled-bottom.PNG"></h2>
+<h2 align="center"><img src="/artistmentalhealth/assets/docs/getinvovled-top.PNG"></h2>
+<h2 align="center"><img src="/artistmentalhealth/assets/docs/getinvovled-mid.PNG"></h2>
+<h2 align="center"><img src="/artistmentalhealth/assets/docs/getinvovled-bottom.PNG"></h2>
 
 ## Error 404 Page 
 
 Incase there is an error 404, the website will redirect to to a customised version of it, matching the brand theme. 
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/404page.PNG"></h2>
+<h2 align="center"><img src="/artistmentalhealth/assets/docs/404page.PNG"></h2>
 
 ***
 
@@ -137,16 +137,16 @@ Incase there is an error 404, the website will redirect to to a customised versi
 
  ## Navbar 
 ### Main Navbar 
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/navbar.jpg"></h2>
+<h2 align="center"><img src="/artistmentalhealth/assets/docs/navbar.jpg"></h2>
 
 ### Navbar Collapse 
- <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/navbar-collapse.jpg"></h2>
+ <h2 align="center"><img src="/artistmentalhealth/assets/docs/navbar-collapse.jpg"></h2>
 
 ### Redirect buttons - User Journey
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/redirect.png"></h2>
+<h2 align="center"><img src="/artistmentalhealth/assets/docs/redirect.png"></h2>
 
 ### Footer 
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/Footer.PNG"></h2>
+<h2 align="center"><img src="/artistmentalhealth/assets/docs/Footer.PNG"></h2>
 
 
  ***
@@ -158,12 +158,12 @@ Tested Chrome DevTools' responsiveness on a variety of computers and devices, in
 
 ### Mobile
 
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/mobile-version.png"></h2>
+<h2 align="center"><img src="/artistmentalhealth/assets/docs/mobile-version.png"></h2>
 
 ### Ipad / Tablet 
 
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/ipad-test.png"></h2>
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/ipad-test2.png"></h2>
+<h2 align="center"><img src="/artistmentalhealth/assets/docs/ipad-test.png"></h2>
+<h2 align="center"><img src="/artistmentalhealth/assets/docs/ipad-test2.png"></h2>
 
  ## Validator
 
@@ -178,24 +178,24 @@ Tested Chrome DevTools' responsiveness on a variety of computers and devices, in
 ### W3C CSS Validator
 No errors shown. Passed validator.
 
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/stylevalidatorw3css.jpg"></h2>
+<h2 align="center"><img src="/artistmentalhealth/assets/docs/stylevalidatorw3css.jpg"></h2>
 
 ## Google Lighthouse Accessibility Score
 
 ### Home
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/home-score.PNG"></h2>
+<h2 align="center"><img src="/artistmentalhealth/assets/docs/home-score.PNG"></h2>
 
 ### Support 
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/support-score.PNG"></h2>
+<h2 align="center"><img src="/artistmentalhealth/assets/docs/support-score.PNG"></h2>
 
 ### Events
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/events-score.PNG"></h2>
+<h2 align="center"><img src="/artistmentalhealth/assets/docs/events-score.PNG"></h2>
 
 ### Stories 
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/stories-score.PNG"></h2>
+<h2 align="center"><img src="/artistmentalhealth/assets/docs/stories-score.PNG"></h2>
 
 ### Get Invovled 
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/getinvovled-score.PNG"></h2>
+<h2 align="center"><img src="/artistmentalhealth/assets/docs/getinvovled-score.PNG"></h2>
 
 
 ***
@@ -246,13 +246,20 @@ No errors shown. Passed validator.
 ***
 
 # Bugs 
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/bugs.png"></h2>
+<h2 align="center"><img src="/artistmentalhealth/assets/docs/bugs.png"></h2>
 
-## Not Fixed
-### Not able to center the hero image of Get invovled.
-### Navbar burger lines not in position for mobile version support page.
-### Scroll to top code is not fully accute, icon is not targetted, text is. 
-### Mobile version, there is no break between cards.
+### Not Fixed
+- Not able to center the hero image of Get invovled.
+- Navbar burger lines not in position for mobile version support page.
+- Scroll to top code is not fully accurate, icon is not targetted, text is. 
+- Mobile version, there is no break between cards.
+
+### Fixed
+Amongs various bugs and erros I have come across, here are some of which I fixed:
+- Aftering testing, I noticed I needed to add meta keywords and description for better SEO.
+- I have fixed the nav brand which wasn't clickable by removing the heading to the hyperlink, and seperated it to CSS.
+- The HTML Validator have helped me get rid of accidental extra div or sections.
+- My video wsan't responsive as I was using an older version of bootsrap iframe. I then noticed and followed the latest verison bootstrap for video responsivenss. 
 
 *** 
 
