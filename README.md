@@ -84,6 +84,9 @@ Final Look of Support page
 
 Events and Gallery page wireframe 
 
+This section allows visitors to get a visual representation of what the website is offering and helps to build trust and credibility. Mainly the events section in a website helps to create a more dynamic and engaging experience for visitors and members alike!
+
+
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/events-design.jpg"></h2>
 
 Final Look of Support page 
