@@ -49,11 +49,27 @@ Different logo concepts were first created, but in the end, it felt that a simpl
 
 ### Colour Palette
 
-These  colours were chosen to give a soft and neutral colors that can create a calming and soothing atmosphere on a website. This can help reduce stress and anxiety for users, making the website more enjoyable to use. These colours also help the ability of reading text clearly on a website, making it easier for users to consume information and navigate the site.
+These  colours were chosen to give a soft and neutral colors that can create a calming and soothing atmosphere on a website. This can help reduce stress and anxiety for users, making the website more enjoyable to use. These colours also help the ability of reading text clearly on a website, making it easier for users to consume information and navigate the site. 
 
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/main-palette.png"></h2>
 
+Addtional matched tones of grpahics designed on Canva 
 
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/graphics-palette.png"></h2>
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/graphics.jpg"></h2>
+
+### Wireframes VS Final look of Website 
+
+Homepage design 
+
+The design focuses on the user's needs and goals, and making it easy for them to find what they're looking for. The homepage clearly describes the purpose and what the organsation offers. Lastly, the Testimonials section provide social proof that the service being offered is of high quality and has satisfied previous customers. This can increase trust and credibility for the website and its offerings.
+
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/homepage-design.png"></h2>
+
+Final Look of Homepage Website
+
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/homepage-top.jpg"></h2>
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/homepage-bottom.jpg"></h2>
 
 ***
 
