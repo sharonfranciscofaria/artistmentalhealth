@@ -82,6 +82,14 @@ Final Look of Support page
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/support-top.jpg"></h2>
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/support-bottom.jpg"></h2>
 
+Events and Gallery page wireframe 
+
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/events-design.jpg"></h2>
+
+Final Look of Support page 
+
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/events-top.jpg"></h2>
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/events-bottom.jpg"></h2>
 
 ***
 
