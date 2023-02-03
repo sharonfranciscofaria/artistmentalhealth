@@ -6,7 +6,11 @@ The purpose of this website is to provide a safe and supportive space for artist
 ## Target
 This website targets all artist of all levels and all age groups living in London, however others across UK may access it online too. 
 
-## User Stories 
+## UI/UX
+
+As designer the main focus is on creating user-centered designs that are both aesthetically pleasing and functional. These task were taken for the website:
+
+##  User research to understand their needs and goals 
 
 As a user, I would like to find the following on an artist community with mental health services website:
 
@@ -18,10 +22,45 @@ As a user, I would like to find the following on an artist community with mental
 
 4- A safe and secure platform that respects my privacy and allows me to control the visibility of my personal information and art.
 
+## Designing the visual elements
 
-### [Live Link](https://
+### Google Fonts and Canva Brand Logo 
+
+Throughout the whole website except the main heading of the homepage, the website mainly uses [Josefin Sans, Designed by Santiago Orozco](https://fonts.google.com/specimen/Josefin+Sans) with various font size and font weight. 
+
+To offer the website's visitors a sense of artistic feel, the main homepage header font [Pinyon Script, Designed by Nicole Fally](https://fonts.google.com/specimen/Pinyon+Script) was chosen. It was carefully decided not to be used more frequently as it can be difficult for users to read. 
+
+![Branding](docs/Branding/font-logo.jpg)
+
+Different logo concepts were first created, but in the end, it felt that a simple text and straightforward logo best reflected the current professionalism and elegance of the brand. The font "Josefin Sans" was used to design the website, making it simple to adapt to various mediums and sizes. 
 
 ***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Technologies used
 
