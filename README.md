@@ -16,10 +16,14 @@ Artists' mental health is often not taken seriously for various reasons:
 ## Solution and Purpose 
 The purpose of this website is to provide a safe and supportive space for artists to connect, share their work, and receive emotional and psychological support related to their mental health. This type of community recognizes the unique challenges that artists can face and aims to promote creative expression while also addressing mental health needs. By providing a platform for artists to connect and receive support, the website aims to connect , improve their overall well-being and foster a positive and uplifting community for all members.
 
-## Target
-This website targets all artist of all levels and all age groups living in London, others across UK may access it online too. By making mental health resources available to people from all backgrounds and ages, we create an inclusive and supportive community where everyone feels welcome and valued.
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/mockup.jpg"></h2>
 
-## UI/UX
+## Live Link
+[The Creative Mind](https://sharonfranciscofaria.github.io/artistmentalhealth/)
+
+
+
+# UI/UX
 
 As designer the main focus is on creating user-centered designs that are both aesthetically pleasing and functional.
 
@@ -34,6 +38,9 @@ As a user, I would like to find the following on an artist community with mental
 3- Opportunities to connect with other artists, access exhibtions, virtual events, where I can share my work, receive feedback, and engage in meaningful conversations related to art and mental health.
 
 4- A safe and secure platform that respects my privacy and allows me to control the visibility of my personal information and art.
+
+## Target
+This website targets all artist of all levels and all age groups living in London, others across UK may access it online too. By making mental health resources available to people from all backgrounds and ages, we create an inclusive and supportive community where everyone feels welcome and valued.
 
 ## Designing the visual elements
 
@@ -58,70 +65,85 @@ Addtional matched tones of grpahics designed on Canva
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/graphics-palette.png"></h2>
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/graphics.jpg"></h2>
 
-### Wireframes VS Final Look of Website 
+# Wireframes VS Final Look of Website 
 
-Homepage wireframe
+## Homepage wireframe
 
 The design focuses on the user's needs and goals, and making it easy for them to find what they're looking for. The homepage clearly describes the purpose and what the organsation offers. Lastly, the Testimonials section provide social proof that the service being offered is of high quality and has satisfied previous customers. This can increase trust and credibility for the website and its offerings.
 
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/homepage-design.png"></h2>
 
-Final Look of Homepage 
+## Homepage Final Look
 
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/homepage-top.jpg"></h2>
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/homepage-bottom.jpg"></h2>
 
-Support page wireframe 
+## Support page wireframe 
 
 Having a self-help tips page and other support pages on a mental health website can help reduce stigma surrounding mental health by normalising the conversation and making it easier for individuals to access information and resources. It can also empower individuals to take control of their mental health and feel more proactive in their recovery.
 
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/support-design.jpg"></h2>
 
-Final Look of Support page 
+## Support page Final Look
 
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/support-top.jpg"></h2>
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/support-bottom.jpg"></h2>
 
-Events and Gallery page wireframe 
+## Events and Gallery page wireframe 
 
 This section allows visitors to get a visual representation of what the website is offering and helps to build trust and credibility. Mainly the events section in a website helps to create a more dynamic and engaging experience for visitors and members alike!
 
 
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/events-design.jpg"></h2>
 
-Final Look of Support page 
+## Events and Gallery page Final Look 
 
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/events-top.jpg"></h2>
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/events-bottom.jpg"></h2>
 
+## Stories page wireframe 
+## Final Look of Stories page 
+
+## Get Invovled page wireframe 
+## Get Invovled page Final Look
+
+# Mobile Version 
+
+
 ***
 
+ # Navigation
+
+ ## Navbar 
+### Main Navbar 
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/navbar.jpg"></h2>
+
+### Navbar Collapse 
+ <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/navbar-collapse.jpg"></h2>
+
+### Redirect buttons
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/redirect.png"></h2>
+
+ ***
+
+ # Testing 
+
+ ## Validator
+
+  ### The W3C Markup Validator
+  ### W3C CSS Validator
+
+## Google Lighthouse
+### Desktop
+### Mobile 
+
+## Different browsers
+### Chrome
+### Edge 
+### Opera 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+***
 ## Technologies used
 
 - HTML
@@ -162,6 +184,50 @@ Final Look of Support page
 - Chrome DevTools
     - Chrome DevTools helped to debug, inspect, test the website's responsive design and check performance analysis tools
 
+https://ui.dev/amiresponsive
 
- 
+***
+
+# Bugs 
+
+*** 
+
+### Deployment
+
+### Remote Deployment
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - On the left side menu, on the section Code and automation, click on Pages.
+  - From the source section drop-down menu, select the Deploy from a branch.
+  - From the branch section drop-down menu, select main, right on the side select /root.
+  - Once the the branch menus have been selected, github will create the page. It might take a few minutes. Once it is done a link will show up on the top of the page.
+
+The live link can be found here - [The Creative Mind](https://sharonfranciscofaria.github.io/artistmentalhealth/)
+
+### Clone/Forking
+- To fork this site go to its GitHub repository https://sharonfranciscofaria.github.io/artistmentalhealth/
+    - On the top right of the page there's a button with the option Fork, click on it.
+    - A new page "Create a new fork" will open. If you wish, you can edit the name.
+    - In the end of the page click on the button "Create fork".
+    - Now you have a copy of the project on your repositories.
+
+### Local Deployment
+- This site was developed using Gitpod. To edit your copy on Gitpod you will need to: 
+    - On your browser of choice install the gitpod extension/add-on.
+    - On GitHub open the project repository you forked before.
+    - On the top of the page, over the files, there is a green button on the right side of the page saying "Gitpod". Click it.
+    - It will open the Gitpod website. On the first time, you will select to connect with your GitHub account and Authorize gitpod-io. After that you'll be creating an account.
+        - It might take a while after that because gitpod will be creating your workspace.
+    - After the workspace is loaded, you're able to edit it on Gitpod.
+
+***
+
+***
+
+# Credits
+
+*** 
+
+# Acknowledgements
 
