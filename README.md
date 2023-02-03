@@ -20,7 +20,7 @@ As a person who had background in the creative industry as well as is surrounded
 
  As a result, I was motivated to create a website targetting artist who may need or need mental health support or a community.
 
-## Solution and Purpose 
+## Solution and Purpose - User goals 
 The purpose of this website is to provide a safe and supportive space for artists to connect, share their work, and receive emotional and psychological support related to their mental health. This type of community recognizes the unique challenges that artists can face and aims to promote creative expression while also addressing mental health needs. By providing a platform for artists to connect and receive support, the website aims to connect , improve their overall well-being and foster a positive and uplifting community for all members.
 
 # UI/UX
@@ -64,6 +64,10 @@ Addtional matched tones of grpahics designed on Canva
 
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/graphics-palette.png"></h2>
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/graphics.jpg"></h2>
+
+Removing background and matching the theme of the website
+
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/remove-background.png"></h2>
 
 # Wireframes VS Final Look of Website 
 
@@ -150,8 +154,7 @@ Incase there is an error 404, the website will redirect to to a customised versi
  # Testing 
 
 ## Responsiveness 
-Tested Chrome DevTools for responsiveness across differnet browsers: Chrome, Edge and Opera as well as different 
-devices: Desktop, Laptop, Tablet/Ipad and Mobiles 
+Tested Chrome DevTools' responsiveness on a variety of computers and devices, including desktops, laptops, tablets, and smartphones, using the browsers Chrome, Edge, and Opera.
 
 ### Mobile
 
@@ -210,7 +213,7 @@ No errors shown. Passed validator.
     - Google Fonts us used to embed for the website
         - [Josefin Sans, Designed by Santiago Orozco](https://fonts.google.com/specimen/Josefin+Sans)
         - [Pinyon Script, Designed by Nicole Fally](https://fonts.google.com/specimen/Pinyon+Script)
-- [Figma]()
+- [Figma](https://www.figma.com)
     - The wireframe was pre-planned and designed via Figma. 
 - [Canva](https://www.canva.com/)
     - Canva was used for: 
@@ -237,10 +240,19 @@ No errors shown. Passed validator.
     - Chrome DevTools helped to debug, inspect, test the website's responsive design and check performance analysis tools
 - [Am I responsive](https://ui.dev/amiresponsive)
     - Mock up and check responsiveness across different devices 
+- [Form Builder](https://bootstrapformbuilder.com/)
+    - Form builder was used to build the form needed alongside with the bootstrap used 
 
 ***
 
 # Bugs 
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/bugs.png"></h2>
+
+## Not Fixed
+### Not able to center the hero image of Get invovled.
+### Navbar burger lines not in position for mobile version support page.
+### Scroll to top code is not fully accute, icon is not targetted, text is. 
+### Mobile version, there is no break between cards.
 
 *** 
 
@@ -288,4 +300,7 @@ The live link can be found here - [The Creative Mind](https://sharonfranciscofar
 *** 
 
 # Acknowledgements
+- My tutor at Westminster Adult Education Service, Richey Malhotra who helped me immensely from the beginning of the project to when I got stuck at some codes. A big thanks for guding me throughout the whole project. 
+- My classmates and team at Westminster Adult Education Service who have been kind to help one another when in need, share ideas and jokes around when working together!
+- My partner Juan Carlos Diaz Lara, whom I am thankful for introducing me into this coding world and taking the journey with me. 
 
