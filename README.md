@@ -124,6 +124,7 @@ Stories is an important tool for struggling artists to connect with users. By sh
 
 # Mobile Version 
 
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/mobile-version.png"></h2>
 
 ***
 
@@ -140,7 +141,7 @@ Stories is an important tool for struggling artists to connect with users. By sh
 <h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/redirect.png"></h2>
 
 ### Footer 
-<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/footer.png"></h2>
+<h2 align="center"><img src="/workspace/artistmentalhealth/assets/docs/Footer.PNG"></h2>
 
 
  ***
